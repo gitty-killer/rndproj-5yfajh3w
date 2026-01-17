@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-5yfajh3w"",
-  ""goal"": ""dataset sampler for incident triage"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "rndproj-5yfajh3w",
+    "goal":  "dataset sampler for incident triage",
+    "language":  "go",
+    "template":  "go-cli"
 }
